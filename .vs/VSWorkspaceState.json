@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\services",
+    "\\src\\app\\single-appareil"
+  ],
+  "SelectedNode": "\\src\\app\\services\\auth-guard.service.ts",
+  "PreviewInSolutionExplorer": false
+}
